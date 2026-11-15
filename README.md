@@ -6,7 +6,7 @@ Marketing website for **Sarthak Talent Partners** (Sarthak Talent Partners Priva
 Tagline: *People. Growth. Success.*
 
 - Live site: [www.sarthakco.in](https://www.sarthakco.in)
-- Enquiries: hello@sarthakco.in · Job applications: careers@sarthakco.in
+- Enquiries: hello@sarthakco.in · Job applications: careers@sarthakco.in · Phone and WhatsApp: +91 80742 08483
 
 Built with Next.js 16 (App Router), React 19, Tailwind CSS v4 and shadcn/ui. Every page is statically generated, and all copy lives in Markdown files under `content/`.
 
