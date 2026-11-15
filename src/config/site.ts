@@ -4,7 +4,7 @@ export const site = {
   tagline: "People. Growth. Success.",
   url: process.env.NEXT_PUBLIC_SITE_URL ?? "https://www.sarthakco.in",
   email: { general: "hello@sarthakco.in", careers: "careers@sarthakco.in" },
-  phone: { display: "+91 83672 51896", tel: "+918367251896" },
+  phone: { display: "+91 80742 08483", tel: "+918074208483" },
   whatsapp: "+918074208483", // optional; renders a WhatsApp link in contact + footer if set
   address: {
     line1: "Shop No 3, Sports World, 35-625, near AOC Center",
